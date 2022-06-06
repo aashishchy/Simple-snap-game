@@ -1,0 +1,2 @@
+Running instruction:
+IN cd prompt change the directory to file folder and type --python "snap.py"
